@@ -1,0 +1,176 @@
+ID	Category	Brand	Name	ImageUrl
+1	laptops	Apple	Apple MacBook Air 15" M3 (16GB, 512GB SSD)	images/prod-1.png
+2	laptops	ASUS	ASUS ROG Zephyrus G16 (RTX 4080, i9-14900HX)	images/prod-2.png
+3	laptops	Apple	Apple MacBook Air 13" M2 (8GB, 256GB SSD)	images/prod-3.png
+4	laptops	Lenovo	Lenovo IdeaPad Slim 3 (Ryzen 5 7520U, 16GB, 512GB)	images/prod-4.png
+5	smartphones	Apple	Apple iPhone 15 Pro (128GB, Natural Titanium)	images/prod-5.png
+6	smartphones	Apple	Apple iPhone 15 (128GB, Blue)	images/prod-6.png
+7	smartphones	OnePlus	OnePlus 12 5G (16GB RAM, 512GB Storage)	images/prod-7.png
+8	smartphones	Xiaomi	Xiaomi Redmi Note 13 5G (8GB RAM, 256GB)	images/prod-8.png
+9	tablets	Apple	Apple iPad Air 11" M2 (128GB, WiFi)	images/prod-9.png
+10	tablets	Samsung	Samsung Galaxy Tab S9 FE (128GB, S-Pen Included)	images/prod-10.png
+11	tablets	Apple	Apple Pencil Pro (Magnetic Wireless Charging)	images/prod-11.png
+12	tablets	Apple	Apple Magic Keyboard for iPad Air 11"	images/prod-12.png
+13	wearables	Apple	Apple Watch Ultra 2 (49mm Titanium, GPS + Cellular)	images/prod-13.png
+14	wearables	Samsung	Samsung Galaxy Watch 6 (44mm Bluetooth)	images/prod-14.png
+15	chargers	Anker	Anker 735 65W GaN Dual USB-C Fast Charger	images/prod-15.png
+16	chargers	Anker	Anker 747 150W 4-Port GaN Desktop Charger	images/prod-16.png
+17	chargers	Apple	Apple 20W USB-C Power Adapter	images/prod-17.png
+18	chargers	Xiaomi	Mi 50W 20,000mAh Power Bank 3 Pro	images/prod-18.png
+19	cables	Spigen	Spigen DuraPro 100W Braided USB-C Cable (2m)	images/prod-19.png
+20	cables	Apple	Apple USB-C to Lightning Cable (1m)	images/prod-20.png
+21	cables	Xiaomi	Belkin Ultra HD High Speed 8K HDMI 2.1 Cable (2m)	images/prod-21.png
+22	cables	Apple	Apple USB-C to 3.5mm Headphone Jack Adapter	images/prod-22.png
+23	audio	Sony	Sony WH-1000XM5 Wireless Noise Cancelling Headphones	images/prod-23.png
+24	audio	Apple	Apple AirPods Pro (2nd Gen, USB-C MagSafe Case)	images/prod-24.png
+25	audio	OnePlus	OnePlus Bullets Wireless Z2 ANC Bluetooth Neckband	images/prod-25.png
+26	audio	Sony	Sony MDR-XB55AP 3.5mm Extra Bass Wired Earphones	images/prod-26.png
+27	cases	Apple	Spigen Ultra Hybrid MagFit Case (iPhone 15 Pro, 6.1")	images/prod-27.png
+28	cases	Apple	Spigen Tough Armor MagFit Case (iPhone 15 Pro Max, 6.7")	images/prod-28.png
+29	cases	Apple	Spigen Liquid Crystal Case (iPhone 15, 6.1")	images/prod-29.png
+30	cases	Apple	Spigen Glas.tR AlignMaster Tempered Glass for iPhone 15 Pro (2-Pack)	images/prod-30.png
+31	monitors	LG	LG UltraGear 27" 4K UHD 144Hz Nano IPS Gaming Monitor (27GR93U)	images/prod-31.png
+32	monitors	Keychron	Keychron K2 V2 Wireless Mechanical Keyboard (RGB Hot-Swap)	images/prod-32.png
+33	monitors	Logitech	Logitech MX Master 3S Wireless Performance Mouse	images/prod-33.png
+34	smart-home	SmartTech	Wipro 16A Smart WiFi Plug with Energy Monitoring	images/prod-34.png
+35	smart-home	Philips	Philips Hue Play Smart RGB Light Bar with Power Supply	images/prod-35.png
+36	smart-home	SmartTech	Qubo Smart WiFi Video Doorbell (Hero Electronix)	images/prod-36.png
+37	desk-setup	Logitech	Logitech Brio 4K Ultra HD Pro Streaming Webcam	images/prod-37.png
+38	desk-setup	SmartTech	Blue Yeti USB Condenser Microphone for Streaming	images/prod-38.png
+39	desk-setup	SmartTech	Amazon Basics Gas Spring Single Monitor Arm Mount	images/prod-39.png
+40	desk-setup	Anker	Anker 575 10-in-1 Dual 4K USB-C Docking Station (100W PD)	images/prod-40.png
+41	gaming	SmartTech	Microsoft Xbox Wireless Controller (Carbon Black)	images/prod-41.png
+42	gaming	SmartTech	SteelSeries QcK Heavy XXL Gaming Mouse Pad (900x400mm)	images/prod-42.png
+43	gaming	Samsung	Samsung 990 PRO 2TB PCIe 4.0 NVMe SSD with Heatsink	images/prod-43.png
+44	power	Belkin	Belkin 6-Socket Surge Protector with 30W USB-C PD Fast Port	images/prod-44.png
+45	power	SmartTech	ESR 3-in-1 MagSafe Foldable Travel Wireless Charging Stand	images/prod-45.png
+46	laptops	Dell	Dell XPS 15 (Core i7-13700H, 16GB, 512GB, RTX 4050)	images/prod-46.png
+47	laptops	HP	HP Spectre x360 2-in-1 OLED (Intel Core Ultra 7, 16GB, 1TB)	images/prod-47.png
+48	laptops	Lenovo	Lenovo ThinkPad X1 Carbon Gen 12 (Core Ultra 7, 32GB, 1TB)	images/prod-48.png
+49	laptops	SmartTech	Acer Predator Helios 16 (i9-14900HX, RTX 4070, 16GB, 1TB)	images/prod-49.png
+50	laptops	ASUS	ASUS ZenBook 14 OLED (Intel Core Ultra 5, 16GB, 1TB)	images/prod-50.png
+51	laptops	SmartTech	MSI Katana 15 Gaming (i7-13620H, RTX 4060, 16GB, 1TB)	images/prod-51.png
+52	laptops	Samsung	Samsung Galaxy Book4 Pro 360 (Intel Core Ultra 7, 16GB, 512GB)	images/prod-52.png
+53	laptops	LG	LG Gram 17 Ultra-Lightweight (Intel Core Ultra 7, 16GB, 1TB)	images/prod-53.png
+54	laptops	SmartTech	Microsoft Surface Laptop 6 (Intel Core Ultra 5, 16GB, 512GB)	images/prod-54.png
+55	laptops	Razer	Razer Blade 16 (i9-14900HX, RTX 4090, 32GB, 2TB Dual Mini-LED)	images/prod-55.png
+56	smartphones	Samsung	Samsung Galaxy S24 Ultra (12GB, 256GB, Titanium Gray, S-Pen)	images/prod-56.png
+57	smartphones	SmartTech	Google Pixel 8 Pro (12GB, 128GB, Bay Blue, Tensor G3)	images/prod-57.png
+58	smartphones	Nothing	Nothing Phone (2) (12GB, 256GB, Dark Grey, Glyph Interface)	images/prod-58.png
+59	smartphones	SmartTech	Vivo X100 Pro (16GB, 512GB, Zeiss 1-inch Camera)	images/prod-59.png
+60	smartphones	SmartTech	Motorola Edge 50 Ultra (16GB, 512GB, Real Wood Back)	images/prod-60.png
+61	smartphones	Realme	Realme GT 6 (16GB, 512GB, 6000 nits Ultra Display, 120W)	images/prod-61.png
+62	smartphones	SmartTech	iQOO 12 5G (16GB, 512GB, Snapdragon 8 Gen 3, Legend Edition)	images/prod-62.png
+63	smartphones	Samsung	Samsung Galaxy Z Flip 5 (8GB, 256GB, Foldable AMOLED)	images/prod-63.png
+64	smartphones	OnePlus	OnePlus Open (16GB, 512GB, Dual ProXDR Displays, Emerald)	images/prod-64.png
+65	smartphones	Sony	Sony Xperia 1 V (12GB, 256GB, 4K HDR OLED 120Hz, Exmor T)	images/prod-65.png
+66	tablets	Apple	Apple iPad Pro 13" M4 (Ultra Retina XDR OLED, 256GB)	images/prod-66.png
+67	tablets	Samsung	Samsung Galaxy Tab S9 Ultra (14.6" Dynamic AMOLED 2X, S-Pen)	images/prod-67.png
+68	tablets	OnePlus	OnePlus Pad 2 (12.1" 3K 144Hz, Snapdragon 8 Gen 3, 12GB)	images/prod-68.png
+69	tablets	Xiaomi	Xiaomi Pad 6 Pro (11" 144Hz 2.8K, Snapdragon 8+, 8GB)	images/prod-69.png
+70	tablets	Lenovo	Lenovo Tab P12 (12.7" 3K Display, Quad JBL Speakers, 8GB)	images/prod-70.png
+71	tablets	SmartTech	Microsoft Surface Pro 10 (Intel Core Ultra 7, 16GB, 512GB)	images/prod-71.png
+72	tablets	Realme	Realme Pad 2 (11.5" 2K 120Hz, 8GB, 256GB, 33W SUPERVOOC)	images/prod-72.png
+73	tablets	SmartTech	Honor Pad 9 (12.1" 2.5K 120Hz, 8 Speakers, 8GB, 256GB)	images/prod-73.png
+74	tablets	Apple	Apple iPad mini 6 (8.3" Liquid Retina, A15 Bionic, 64GB)	images/prod-74.png
+75	tablets	OnePlus	OnePlus Stylo 2 Active Stylus Pen (Ultra-low latency, 4096 levels)	images/prod-75.png
+76	wearables	SmartTech	Garmin Fenix 7 Pro Solar (Multi-band GPS, Sapphire Titanium)	images/prod-76.png
+77	wearables	OnePlus	OnePlus Watch 2 (Dual-Engine Architecture, Wear OS 4)	images/prod-77.png
+78	wearables	SmartTech	Amazfit Balance (1.5" AMOLED, Dual-band GPS, Zepp Coach)	images/prod-78.png
+79	wearables	SmartTech	Fitbit Charge 6 (Google Maps, Wallet, ECG, Heart Rate)	images/prod-79.png
+80	wearables	Noise	Noise ColorFit Pro 5 Max (1.96" AMOLED, Posture Alert)	images/prod-80.png
+81	wearables	boAt	boAt Lunar Tigre (1.45" AMOLED, Rugged Metal Casing)	images/prod-81.png
+82	wearables	SmartTech	Fire-Boltt Invincible Plus (1.43" AMOLED, 4GB Storage)	images/prod-82.png
+83	wearables	SmartTech	Fastrack Limitless FS1 Pro (1.96" Super AMOLED Arched)	images/prod-83.png
+84	wearables	SmartTech	Garmin Forerunner 265 (Running Smartwatch, Touchscreen AMOLED)	images/prod-84.png
+85	wearables	Apple	Apple Watch Series 9 (45mm GPS, S9 SiP, Double Tap)	images/prod-85.png
+86	chargers	SmartTech	UGREEN Nexode 100W 4-Port GaN Fast Desktop Charger	images/prod-86.png
+87	chargers	Samsung	Samsung 45W Power Adapter with 5A Type-C Cable	images/prod-87.png
+88	chargers	Belkin	Belkin BoostCharge Pro 65W Dual USB-C GaN Charger	images/prod-88.png
+89	chargers	SmartTech	Stuffcool Neutron 33W Dual Port Mini GaN Charger	images/prod-89.png
+90	chargers	SmartTech	Portronics Adapto 65W GaN Multi-Port Wall Charger	images/prod-90.png
+91	chargers	SmartTech	Baseus Blade 100W Ultra-Slim 20000mAh Power Bank	images/prod-91.png
+92	chargers	Spigen	Spigen ArcStation Pro 45W Dual USB-C GaN Wall Charger	images/prod-92.png
+93	chargers	Xiaomi	Xiaomi 67W SonicCharge 3.0 Combo Fast Charger	images/prod-93.png
+94	chargers	SmartTech	Ambrane PowerLit Ultra 100W 25000mAh Laptop Power Bank	images/prod-94.png
+95	chargers	SmartTech	UGREEN Nexode 140W 3-Port GaN PD 3.1 Fast Charger	images/prod-95.png
+96	cables	Anker	Anker PowerLine III Flow Silicone Type-C 100W Cable (1.8m)	images/prod-96.png
+97	cables	SmartTech	UGREEN Thunderbolt 4 40Gbps 8K 100W Braided Cable (0.8m)	images/prod-97.png
+98	cables	Belkin	Belkin BoostCharge Pro Flex Braided Type-C to Lightning (2m)	images/prod-98.png
+99	cables	SmartTech	Baseus 8-in-1 USB-C Hub with 4K HDMI, 100W PD & SD Reader	images/prod-99.png
+100	cables	SmartTech	Satechi Aluminum Type-C Multi-Port Adapter 4K Gigabit	images/prod-100.png
+101	cables	SmartTech	Amazon Basics DisplayPort 1.4 to 8K Cable (2m Gold Plated)	images/prod-101.png
+102	cables	SmartTech	Portronics Konnect CL 20W Type-C to Lightning Braided Cable	images/prod-102.png
+103	cables	boAt	boAt Rugged v3 Extra Tough Type-C 65W Cable (1.5m)	images/prod-103.png
+104	cables	SmartTech	UGREEN 3.5mm Aux Male-to-Male Braided Audio Cable (1m)	images/prod-104.png
+105	cables	Xiaomi	Anker 518 USB-C to 4K HDMI Adapter (60Hz Ultra HD)	images/prod-105.png
+106	audio	Bose	Bose QuietComfort Ultra Wireless Noise Cancelling Headphones	images/prod-106.png
+107	audio	HP	Sennheiser Momentum 4 Wireless ANC Headphones (60hr Battery)	images/prod-107.png
+108	audio	Noise	JBL Tour ONE M2 Adaptive Noise Cancelling Headphones	images/prod-108.png
+109	audio	SmartTech	Marshall Major IV On-Ear Bluetooth Headphones (80hr Battery)	images/prod-109.png
+110	audio	SmartTech	Audio-Technica ATH-M50xBT2 Wireless Studio Monitor Headphones	images/prod-110.png
+111	audio	Nothing	Nothing Ear (a) Hi-Res Wireless Earbuds with Smart ANC	images/prod-111.png
+112	audio	Bose	Bose QuietComfort Ultra Earbuds with Immersive Audio	images/prod-112.png
+113	audio	SmartTech	JBL Flip 6 Portable Waterproof Bluetooth Speaker (30W)	images/prod-113.png
+114	audio	boAt	boAt Nirvana Ion ANC True Wireless Earbuds (120hr Playtime)	images/prod-114.png
+115	audio	SmartTech	Skullcandy Crusher ANC 2 Over-Ear Sensory Bass Headphones	images/prod-115.png
+116	cases	Samsung	Ringke Fusion-X Rugged Bumper Case for Galaxy S24 Ultra	images/prod-116.png
+117	cases	Apple	Caseology Parallax MagSafe Textured Case for iPhone 15 Pro	images/prod-117.png
+118	cases	Apple	OtterBox Defender Series Multi-Layer Heavy Duty Case for iPhone 15	images/prod-118.png
+119	cases	SmartTech	UAG Monarch Kevlar Rugged Shockproof Case for S24 Ultra	images/prod-119.png
+120	cases	Apple	Nillkin CamShield Pro Slide Camera Cover Case for iPhone 15 Pro	images/prod-120.png
+121	cases	Apple	Torras 360 Spin Magnetic Stand Case for iPhone 15 Pro Max	images/prod-121.png
+122	cases	SmartTech	ESR Classic Hybrid Clear Case with Stash Stand for S24	images/prod-122.png
+123	cases	SmartTech	Dbrand Grip Case with Textured Skin for Google Pixel 8 Pro	images/prod-123.png
+124	cases	Apple	DailyObjects Vegan Leatherette MagSafe Case for iPhone 15 Pro	images/prod-124.png
+125	cases	Spigen	Spigen GlasTR EZ Fit Tempered Glass Screen Protector (2-Pack)	images/prod-125.png
+126	monitors	Samsung	Samsung Odyssey Neo G8 32" 4K 240Hz Curved Gaming Monitor	images/prod-126.png
+127	monitors	Dell	Dell UltraSharp 27" 4K USB-C Hub Monitor (U2723QE IPS Black)	images/prod-127.png
+128	monitors	SmartTech	BenQ PD2705U 27" 4K Designer Monitor (sRGB, Type-C 65W KVM)	images/prod-128.png
+129	monitors	ASUS	ASUS ROG Swift OLED 32" 4K 240Hz Gaming Monitor (PG32UCDM)	images/prod-129.png
+130	monitors	SmartTech	Acer Predator XB283K 28" 4K UHD 144Hz IPS Gaming Monitor	images/prod-130.png
+131	monitors	SmartTech	MSI Optix MPG321UR-QD 32" 4K 144Hz Quantum Dot Gaming Monitor	images/prod-131.png
+132	monitors	SmartTech	Gigabyte M28U 28" 4K UHD 144Hz Gaming Monitor with KVM	images/prod-132.png
+133	monitors	SmartTech	ViewSonic ColorPro VP2768a 27" 2K Graphic Design Monitor	images/prod-133.png
+134	monitors	Philips	Philips Evnia 34" WQHD 165Hz Curved Mini-LED Gaming Monitor	images/prod-134.png
+135	monitors	Samsung	Samsung ViewFinity S9 27" 5K Display with 4K SlimFit Camera	images/prod-135.png
+136	smart-home	TP-Link	TP-Link Tapo C210 2K 3MP Pan/Tilt Smart Security Wi-Fi Camera	images/prod-136.png
+137	smart-home	SmartTech	Amazon Echo Show 8 (2nd Gen) Smart Display with Alexa	images/prod-137.png
+138	smart-home	SmartTech	Google Nest Hub (2nd Gen) Smart Display with Sleep Sensing	images/prod-138.png
+139	smart-home	Philips	Philips Wiz Smart 9W B22 Color & Tunable White LED Bulb (3-Pack)	images/prod-139.png
+140	smart-home	Xiaomi	Xiaomi Smart Air Purifier 4 with True HEPA Filter & OLED Display	images/prod-140.png
+141	smart-home	SmartTech	Atomberg Renesa 1200mm BLDC Smart Ceiling Fan with Remote & App	images/prod-141.png
+142	smart-home	SmartTech	Havells Crabtree Signia 4-Node Smart Wi-Fi Touch Switch Panel	images/prod-142.png
+143	smart-home	SmartTech	Qubo Smart Door Lock Ultra by Hero Group (5-in-1 Access)	images/prod-143.png
+144	smart-home	TP-Link	TP-Link Tapo P110 16A Smart Wi-Fi Plug with Energy Monitoring	images/prod-144.png
+145	smart-home	SmartTech	Wipro Smart LED Batten 20W Color & White Wi-Fi Light Bar	images/prod-145.png
+146	desk-setup	SmartTech	Elgato Stream Deck MK.2 Studio Controller (15 LCD Keys)	images/prod-146.png
+147	desk-setup	SmartTech	Rode NT-USB Mini Studio Condenser USB Microphone	images/prod-147.png
+148	desk-setup	SmartTech	HyperX QuadCast S RGB USB Condenser Gaming Microphone	images/prod-148.png
+149	desk-setup	SmartTech	Elgato Facecam Full HD 1080p60 Uncompressed Streaming Webcam	images/prod-149.png
+150	desk-setup	SmartTech	Shure MV7 USB/XLR Dynamic Broadcast Podcast Microphone	images/prod-150.png
+151	desk-setup	Razer	Razer Kiyo Pro Streaming Webcam (Adaptive Light Sensor, HDR)	images/prod-151.png
+152	desk-setup	SmartTech	Elgato Key Light Air Professional Studio LED Edge-lit Panel	images/prod-152.png
+153	desk-setup	SmartTech	BenQ ScreenBar Halo Wireless Controller LED Monitor Light	images/prod-153.png
+154	desk-setup	SmartTech	Audio-Technica AT2020USB-X Cardioid Condenser USB Microphone	images/prod-154.png
+155	desk-setup	Logitech	Logitech Litra Glow Premium Streaming Light with TrueSoft	images/prod-155.png
+156	gaming	Sony	Sony DualSense Edge Wireless Controller for PS5 & PC	images/prod-156.png
+157	gaming	Razer	Razer DeathAdder V3 Pro Ultra-lightweight Wireless Gaming Mouse	images/prod-157.png
+158	gaming	Corsair	Corsair K70 RGB PRO Mechanical Gaming Keyboard (Cherry MX Red)	images/prod-158.png
+159	gaming	Logitech	Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse	images/prod-159.png
+160	gaming	SmartTech	HyperX Cloud III Wireless Gaming Headset (120hr Battery, 53mm)	images/prod-160.png
+161	gaming	ASUS	ASUS ROG Falchion RX Low Profile 65% Wireless Keyboard	images/prod-161.png
+162	gaming	SmartTech	SteelSeries Arctis Nova Pro Wireless Multi-System Headset	images/prod-162.png
+163	gaming	Razer	Razer BlackShark V2 Pro Wireless Esports Headset (HyperClear)	images/prod-163.png
+164	gaming	Corsair	Corsair RM850x 850W 80 Plus Gold Fully Modular ATX Power Supply	images/prod-164.png
+165	gaming	SmartTech	Redragon K552 Kumara Rainbow Backlit Mechanical Gaming Keyboard	images/prod-165.png
+166	power	SmartTech	APC Back-UPS BX600C-IN 600VA / 360W 230V Desktop UPS	images/prod-166.png
+167	power	SmartTech	APC Back-UPS Pro BR1000G-IN 1000VA Sine Wave Line-Interactive UPS	images/prod-167.png
+168	power	SmartTech	V-Guard Crystal Plus Smart Television Voltage Stabilizer (up to 55")	images/prod-168.png
+169	power	SmartTech	Microtek Legend 1000VA Heavy-Duty Desktop UPS with AVR	images/prod-169.png
+170	power	SmartTech	Luminous Zelio+ 1100 Pure Sinewave Inverter for Home & Office	images/prod-170.png
+171	power	SmartTech	Havells 4-Way Heavy Duty Spike & Surge Protector (2m Cord)	images/prod-171.png
+172	power	SmartTech	Portronics Power Plate 7 with 6 Power Sockets & 4 USB Ports (2500W)	images/prod-172.png
+173	power	SmartTech	Syska 4-Way Power Strip Surge Protector with Master Switch	images/prod-173.png
+174	power	Zebronics	Zebronics Zeb-Iron 600VA Line Interactive UPS with Auto Restart	images/prod-174.png
+175	power	Belkin	Belkin BoostCharge Pro 3-in-1 Wireless Charging Pad with MagSafe 15W	images/prod-175.png

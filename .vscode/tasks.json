@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run SmartCart Server",
+            "type": "shell",
+            "command": "${workspaceFolder}\\run.bat",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run SmartCart Tests",
+            "type": "shell",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"& 'C:\\Program Files\\Java\\jdk-26.0.1\\bin\\java.exe' -cp 'target/classes;target/test-classes;lib/jakarta.servlet-api-6.1.0.jar' SmartCartTest\"",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect x="35" y="68" width="30" height="20" rx="5" fill="#94a3b8" stroke="#475569" stroke-width="2"/>
+  <path d="M65 78 C90 78, 105 78, 125 78" stroke="#334155" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <rect x="125" y="64" width="40" height="28" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="2"/>
+  <circle cx="152" cy="78" r="6" fill="#475569"/>
+  <circle cx="152" cy="78" r="3" fill="#000000"/>
+  <text x="100" y="130" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a" text-anchor="middle">Hi-Res DAC Dongle</text>
+</svg>

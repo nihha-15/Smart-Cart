@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+    <defs>
+        <linearGradient id="mbLid" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#334155"/>
+            <stop offset="100%" stop-color="#0f172a"/>
+        </linearGradient>
+        <linearGradient id="mbScreen" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0284c7"/>
+            <stop offset="50%" stop-color="#38bdf8"/>
+            <stop offset="100%" stop-color="#818cf8"/>
+        </linearGradient>
+        <linearGradient id="mbBase" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#94a3b8"/>
+            <stop offset="100%" stop-color="#64748b"/>
+        </linearGradient>
+    </defs>
+    <!-- Screen Lid -->
+    <rect x="34" y="20" width="132" height="88" rx="7" fill="url(#mbLid)" stroke="#475569" stroke-width="2"/>
+    <!-- Liquid Retina Display -->
+    <rect x="40" y="26" width="120" height="76" rx="4" fill="url(#mbScreen)"/>
+    <!-- Notch -->
+    <path d="M92 26 L108 26 L106 30 L94 30 Z" fill="#0f172a"/>
+    <!-- Wallpaper Art -->
+    <circle cx="100" cy="64" r="20" fill="#ffffff" opacity="0.25"/>
+    <path d="M50 95 Q100 45 150 95 Z" fill="#ffffff" opacity="0.2"/>
+    <!-- Unibody Base -->
+    <path d="M16 112 L184 112 L172 128 L28 128 Z" fill="url(#mbBase)"/>
+    <rect x="85" y="113" width="30" height="4" rx="2" fill="#cbd5e1"/>
+    <!-- Product Label -->
+    <rect x="48" y="136" width="104" height="18" rx="9" fill="#0f172a"/>
+    <text x="100" y="149" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="800" fill="#38bdf8" text-anchor="middle">MacBook Air 15" M3</text>
+</svg>

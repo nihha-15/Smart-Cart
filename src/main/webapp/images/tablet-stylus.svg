@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <defs><linearGradient id="gsty" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e2e8f0"/><stop offset="100%" stop-color="#cbd5e1"/></linearGradient></defs>
+  <rect x="30" y="72" width="130" height="14" rx="7" fill="url(#gsty)" stroke="#64748b" stroke-width="2"/>
+  <polygon points="160,72 178,79 160,86" fill="#0f172a"/>
+  <rect x="40" y="75" width="12" height="8" rx="2" fill="#10b981"/>
+  <text x="100" y="130" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a" text-anchor="middle">Magnetic Stylus Pen</text>
+</svg>

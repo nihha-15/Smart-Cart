@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run SmartCart Server (Port 8080)",
+            "request": "launch",
+            "mainClass": "com.smartcart.SmartCartServer",
+            "args": "8080",
+            "classPaths": [
+                "${workspaceFolder}/target/classes",
+                "${workspaceFolder}/lib/jakarta.servlet-api-6.1.0.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Run SmartCart Automated Tests",
+            "request": "launch",
+            "mainClass": "SmartCartTest",
+            "classPaths": [
+                "${workspaceFolder}/target/classes",
+                "${workspaceFolder}/target/test-classes",
+                "${workspaceFolder}/lib/jakarta.servlet-api-6.1.0.jar"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <defs><linearGradient id="gtab" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#475569"/><stop offset="100%" stop-color="#1e293b"/></linearGradient></defs>
+  <rect x="45" y="15" width="110" height="125" rx="10" fill="url(#gtab)" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="52" y="22" width="96" height="110" rx="6" fill="#6366f1" opacity="0.9"/>
+  <circle cx="100" cy="26" r="2" fill="#0f172a"/>
+  <circle cx="100" cy="77" r="22" fill="#a5b4fc" opacity="0.6"/>
+  <text x="100" y="152" font-family="sans-serif" font-size="11" font-weight="bold" fill="#0f172a" text-anchor="middle">AeroPad Pro 11</text>
+</svg>

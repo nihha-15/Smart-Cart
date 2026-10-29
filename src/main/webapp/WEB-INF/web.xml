@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+
+    <display-name>SmartCart</display-name>
+    <description>SmartCart - An Intelligent E-Commerce Cart System</description>
+
+    <!-- Welcome File -->
+    <welcome-file-list>
+        <welcome-file>home</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- Session Timeout in minutes -->
+    <session-config>
+        <session-timeout>60</session-timeout>
+        <cookie-config>
+            <http-only>true</http-only>
+        </cookie-config>
+    </session-config>
+
+    <!-- Servlets -->
+    <servlet>
+        <servlet-name>HomeServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.HomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HomeServlet</servlet-name>
+        <url-pattern>/home</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ProductServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.ProductServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProductServlet</servlet-name>
+        <url-pattern>/products</url-pattern>
+        <url-pattern>/product</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/cart</url-pattern>
+        <url-pattern>/cart/add</url-pattern>
+        <url-pattern>/cart/update</url-pattern>
+        <url-pattern>/cart/remove</url-pattern>
+        <url-pattern>/cart/budget</url-pattern>
+        <url-pattern>/cart/clear</url-pattern>
+        <url-pattern>/cart/replace</url-pattern>
+        <url-pattern>/cart/addBundle</url-pattern>
+        <url-pattern>/cart/addBoughtTogether</url-pattern>
+        <url-pattern>/cart/dismissAlert</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AnalysisServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.AnalysisServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AnalysisServlet</servlet-name>
+        <url-pattern>/cart/analysis</url-pattern>
+        <url-pattern>/cart/analysis/dismiss</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CheckoutServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.CheckoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CheckoutServlet</servlet-name>
+        <url-pattern>/checkout</url-pattern>
+        <url-pattern>/order/place</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>OrderConfirmationServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.OrderConfirmationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderConfirmationServlet</servlet-name>
+        <url-pattern>/order/confirmation</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AuthServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.AuthServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AuthServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+        <url-pattern>/register</url-pattern>
+        <url-pattern>/logout</url-pattern>
+        <url-pattern>/profile</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>OrderHistoryServlet</servlet-name>
+        <servlet-class>com.smartcart.controller.OrderHistoryServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderHistoryServlet</servlet-name>
+        <url-pattern>/orders</url-pattern>
+        <url-pattern>/order/history</url-pattern>
+    </servlet-mapping>
+
+</web-app>
