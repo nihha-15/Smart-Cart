@@ -1,5 +1,28 @@
+# Build output & compiled classes
 target/
 *.class
+
+# Temporary logs & diagnostics
 *.log
+*.tmp
+
+# Environment variables & credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.jks
+credentials.json
+secrets.properties
+
+# Operating System files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# IDE & Editor caches (keep .vscode launch/tasks for convenience, ignore user workspace caches)
+.idea/
+*.iml
+*.suo
+*.user
